@@ -1,19 +1,17 @@
-##Apresentação
 <div align="center">
   <img src="https://github.com/PedroHugoHeinen/PedroHugoHeinen/blob/2306ed71b1c23231c9b3414d7f852bc51132ec23/HCommit%20-%20GitHub.png" min-width="256px" max-width="256px" width="256px" align="right" alt="HCommit">
 
   <div align="left">
     <p align="center"> 
-      <h1>Pedro Hugo <b>Heinen</b></h1><br>
+      <h1>Pedro Hugo <b>Heinen</b></h1>
       <h3>CEO em <b>HCommit</b></h3>
     </p>
   </div>
 </div>
-##Detalhes
+
 <div align="center">
   <p align="left">
     👨‍💻 <strong>Habilidades</strong><br>
-    <ol>
       <li>HTML</li>
       <li>CSS</li>
       <li>Sass</li>
@@ -22,22 +20,19 @@
       <li>C#</li>
       <li>SQL</li>
       <li>Google AppScript</li>
-    </ol>
   </p>
 
   <p align="right">
     🛠️ <strong>Ferramentas</strong><br>
-    <ol>
       <li>Visual Studio</li>
       <li>Visual Studio Code</li>
       <li>Node.js</li>
       <li>Git</li>
       <li>Microsof Edge</li>
       <li>MySQL Workbench</li>
-    </ol>
   </p>
 </div>
-##Contatos
+
 <div align="center">
   <p align="center">
     Mantenha contato comigo!
