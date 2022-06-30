@@ -33,6 +33,7 @@ Tenho um perfil técnico por isso estudo e desenvolvo projetos junto a HCode Tre
   <li>Node.js</li>
   <li>Git</li>
   <li>GitHub</li>
+  <li>Figma</li>
   <li>Microsof Edge</li>
   <li>MySQL Workbench</li>
 </p>
