@@ -2,11 +2,12 @@
 
 ## **PEDRO HUGO HEINEN** <br>
 
-> <strong>CEO em HCommit</strong>
+> <strong>CEO em HCommit</strong> <br>
+Minha empresa para prestação de serviços.
 
-Gosto muito de tudo que faço e gosto especialmente de novos desafios, novas experiências. Me adapto muito bem a novos ambientes, projetos, equipes e não tenho preguiça de trabalhar ou aprender. Levo uma vida simples, com modestas ambições. Gosto de fazer mais pelos outros, afinal, há mais felicidade em dar do que em receber!<br>
-
-Tenho um perfil técnico por isso estudo e desenvolvo projetos junto a HCode Treinamentos. Apesar de já ter contato com a área de desenvolvimento a mais de dez anos, estou me especializando em algumas linguagens e tecnologias em particular. Da uma conferida abaixo no que tenho aprendido!
+Apaixonado por tecnologia, com mais de uma década trabalhando em suas diferentes áreas. <br>
+Gosto de aprender coisas novas e de compartilhar com outros o meus conhecimento e habilidades. <br>
+<strong>Um novo desafio? Ótimo, vamos trabalhar!</strong> <br><br><br>
 
 ----
 
@@ -42,9 +43,8 @@ Tenho um perfil técnico por isso estudo e desenvolvo projetos junto a HCode Tre
 
 > <strong>Minhas Redes</strong>
 <p align="center">
-    </a>
     <a href="https://www.linkedin.com/in/pedrohugoheinen/">
-        <img alt="My Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=pedrohugoheinen&color=214083">
+        <img alt="My Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=LinkedIn&message=pedrohugoheinen&color=214083">
     </a>
     <a href="mailto:pedro.hugo.heinen@gmail.com">
         <img alt="Gmail" src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Gmail&message=pedro.hugo.heinen@gmail.com&color=214083">
