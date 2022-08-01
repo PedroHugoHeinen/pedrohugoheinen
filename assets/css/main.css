@@ -3431,10 +3431,6 @@ input, select, textarea {
 			padding-bottom: 0.4em;
 		}
 
-		#banner h3 {
-			margin-left: 130px;
-		}
-
 		#banner p {
 			-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, -moz-filter 0.25s ease;
 			-webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, -webkit-filter 0.25s ease;
