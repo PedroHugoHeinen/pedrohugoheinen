@@ -13,15 +13,35 @@ Gosto de aprender coisas novas e de compartilhar com outros o meus conhecimento 
 
 <img src="https://github.com/PedroHugoHeinen/PedroHugoHeinen/blob/b95395d2ca31e55a872188992f4c74e185c658d8/Devs.jpg" min-width="256px" max-width="256px" width="256px" align="right" alt="Devs">
 
-> <strong>Minhas Habilidades</strong><br>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Sass</li>
-  <li>Javascript</li>
-  <li>Node.js</li>
-  <li>MySQL</li>
-  <li>PostgreSQL</li>
-  <li>Google Apps Script</li>
+> <strong>Minhas Habilidades e Especialidades</strong><br>
+<li><strong>Design de Interface</strong></li>
+<li>Figma</li>
+<li>InVision</li>
+<li>Gimp</li>
+
+<li><strong>Front-end</strong></li>
+<li>Html5</li>
+<li>CSS3</li>
+<li>JavaScript</li>
+<li>React</li>
+
+<li><strong>Back-end</strong></li>
+<li>JavaScript</li>
+<li>NodeJS</li>
+<li>NestJS</li>
+<li>TypeScript</li>
+<li>Prisma</li>
+<li>Insomnia</li>
+
+<li><strong>Banco deDados</strong></li>
+<li>MySQL</li> 
+<li>PostgreSQL</li>
+<li>MySQLWorkbench</li> 
+
+<li><strong>Produtividade</strong></li>
+<li>Google Workspace</li>
+<li>Microsoft Office 365</li>
+<li>Google AppScripts</li>
 </p>
 
 ----
@@ -37,6 +57,12 @@ Gosto de aprender coisas novas e de compartilhar com outros o meus conhecimento 
   <li>Figma</li>
   <li>Microsof Edge</li>
   <li>MySQL Workbench</li>
+  <li>Insomnia</li>
+  <li>Prisma</li>
+  <li>ElectronJS</li>
+  <li>Microsoft Report Builder</li>
+  <li>Microsoft Office 365</li>
+  <li>Google Workspace</li>
 </p>
 
 ----
