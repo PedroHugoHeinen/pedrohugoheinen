@@ -17,13 +17,13 @@ Gosto de aprender coisas novas e de compartilhar com outros o meus conhecimento 
 <li><strong>Design de Interface</strong></li>
 <li>Figma</li>
 <li>InVision</li>
-<li>Gimp</li>
+<li>Gimp</li><br>
 
 <li><strong>Front-end</strong></li>
 <li>Html5</li>
 <li>CSS3</li>
 <li>JavaScript</li>
-<li>React</li>
+<li>React</li><br>
 
 <li><strong>Back-end</strong></li>
 <li>JavaScript</li>
@@ -31,12 +31,12 @@ Gosto de aprender coisas novas e de compartilhar com outros o meus conhecimento 
 <li>NestJS</li>
 <li>TypeScript</li>
 <li>Prisma</li>
-<li>Insomnia</li>
+<li>Insomnia</li><br>
 
 <li><strong>Banco deDados</strong></li>
 <li>MySQL</li> 
 <li>PostgreSQL</li>
-<li>MySQLWorkbench</li> 
+<li>MySQLWorkbench</li> <br>
 
 <li><strong>Produtividade</strong></li>
 <li>Google Workspace</li>
