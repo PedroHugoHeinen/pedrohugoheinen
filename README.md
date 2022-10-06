@@ -6,7 +6,7 @@
 Minha empresa para prestação de serviços.
 
 Apaixonado por tecnologia, com mais de uma década trabalhando em suas diferentes áreas. <br>
-Gosto de aprender coisas novas e de compartilhar com outros o meus conhecimento e habilidades. <br>
+Gosto de aprender coisas novas e de compartilhar com outros os meus conhecimentos e habilidades. <br>
 <strong>Um novo desafio? Ótimo, vamos trabalhar!</strong> <br><br><br>
 
 ----
