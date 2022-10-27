@@ -3484,6 +3484,16 @@ input, select, textarea {
 
 		}
 
+			#banner.hcommit {
+				background-color: #0043a2;
+				background-image: linear-gradient(to top, rgba(0, 67, 162, 0.8), rgba(0, 67, 162, 0.8)), url("../../images/bg.jpg");
+				background-size: auto,
+		cover;
+				background-position: center,
+		center;
+				margin-bottom: -6.5em;
+			}
+
 		@media screen and (max-width: 980px) {
 
 			#banner {
@@ -3591,6 +3601,16 @@ input, select, textarea {
  cover;
 			background-position: center,
  0% 30%;
+			margin-bottom: -6.5em;
+		}
+
+		#wrapper > header .hcommit {
+			background-color: #0043a2;
+			background-image: linear-gradient(to top, rgba(0, 67, 162, 0.8), rgba(0, 67, 162, 0.8)), url("../../images/bg.jpg");
+			background-size: auto,
+	cover;
+			background-position: center,
+	center;
 			margin-bottom: -6.5em;
 		}
 
@@ -4096,6 +4116,17 @@ input, select, textarea {
  cover;
 			background-position: center,
  center;
+			margin-top: -6.5em;
+			padding-top: 6.5em;
+		}
+
+		#footer.hcommit {
+			background-color: #0043a2;
+			background-image: linear-gradient(to top, rgba(0, 67, 162, 0.8), rgba(0, 67, 162, 0.8)), url("../../images/bg.jpg");
+			background-size: auto,
+	cover;
+			background-position: center,
+	center;
 			margin-top: -6.5em;
 			padding-top: 6.5em;
 		}
