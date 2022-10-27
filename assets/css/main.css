@@ -103,6 +103,17 @@ input, select, textarea {
  center;
 	}
 
+	body.hcommit {
+		background-color: #0043a2;
+		background-image: linear-gradient(to top, rgba(0, 67, 162, 0.8), rgba(0, 67, 162, 0.8)), url("../../images/bg.jpg");
+		background-size: auto,
+ cover;
+		background-attachment: fixed,
+ fixed;
+		background-position: center,
+ center;
+	}
+
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
