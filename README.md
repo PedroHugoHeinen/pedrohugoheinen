@@ -14,29 +14,28 @@ Gosto de aprender coisas novas e de compartilhar com outros os meus conhecimento
 <img src="https://github.com/PedroHugoHeinen/PedroHugoHeinen/blob/b95395d2ca31e55a872188992f4c74e185c658d8/Devs.jpg" min-width="256px" max-width="256px" width="256px" align="right" alt="Devs">
 
 > <strong>Minhas Habilidades e Especialidades</strong><br>
-<li><strong>Design de Interface</strong></li>
-<li>Figma</li>
-<li>InVision</li>
-<li>Gimp</li><br>
+<li><strong>.NET</strong></li>
+<li>C#</li>
+<li>Blazor</li><br>
 
 <li><strong>Front-end</strong></li>
 <li>Html5</li>
 <li>CSS3</li>
-<li>JavaScript</li>
-<li>React</li><br>
+<li>JavaScript</li><br>
 
 <li><strong>Back-end</strong></li>
 <li>JavaScript</li>
 <li>NodeJS</li>
-<li>NestJS</li>
 <li>TypeScript</li>
-<li>Prisma</li>
 <li>Insomnia</li><br>
 
 <li><strong>Banco deDados</strong></li>
-<li>MySQL</li> 
 <li>PostgreSQL</li>
+<li>MySQL</li>
 <li>MySQLWorkbench</li> <br>
+
+<li><strong>Design de Interface</strong></li>
+<li>Figma</li><br>
 
 <li><strong>Produtividade</strong></li>
 <li>Google Workspace</li>
