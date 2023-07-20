@@ -1,4 +1,4 @@
-<img src="https://github.com/PedroHugoHeinen/PedroHugoHeinen/blob/2306ed71b1c23231c9b3414d7f852bc51132ec23/HCommit%20-%20GitHub.png" min-width="256px" max-width="256px" width="256px" align="right" alt="HCommit" href="https://pedrohugoheinen.github.io/pedrohugoheinen/">
+<img src="https://github.com/PedroHugoHeinen/pedrohugoheinen/blob/55036a1ac97d4329ec454cf200fee0a41f0e798c/assets/images/HCommit%20-%20GitHub.png" min-width="256px" max-width="256px" width="256px" align="right" alt="HCommit" href="https://pedrohugoheinen.github.io/pedrohugoheinen/">
 
 ## **PEDRO HUGO HEINEN** <br>
 
