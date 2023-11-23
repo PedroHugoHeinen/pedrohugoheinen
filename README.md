@@ -14,30 +14,28 @@ Gosto de aprender coisas novas e de compartilhar com outros os meus conhecimento
 <img src="https://github.com/PedroHugoHeinen/PedroHugoHeinen/blob/b95395d2ca31e55a872188992f4c74e185c658d8/Devs.jpg" min-width="256px" max-width="256px" width="256px" align="right" alt="Devs">
 
 > <strong>Minhas Habilidades e Especialidades</strong><br>
-<li><strong>.NET</strong></li>
+<li><strong>.NET Core</strong></li>
 <li>C#</li>
-<li>Blazor</li><br>
+<li>Blazor</li>
+<li>Entity Framework</li>
+<li>Hangfire</li><br>
 
-<li><strong>Front-end</strong></li>
-<li>Html5</li>
-<li>CSS3</li>
-<li>JavaScript</li><br>
-
-<li><strong>Back-end</strong></li>
-<li>JavaScript</li>
-<li>NodeJS</li>
-<li>TypeScript</li>
-<li>Insomnia</li><br>
-
-<li><strong>Banco deDados</strong></li>
+<li><strong>Banco de Dados</strong></li>
 <li>PostgreSQL</li>
+<li>SQL Server</li>
 <li>MySQL</li>
-<li>MySQLWorkbench</li> <br>
+<li>MySQLWorkbench</li><br>
 
 <li><strong>Design de Interface</strong></li>
-<li>Figma</li><br>
+<li>Figma</li>
+<li>Visio</li>
+<li>Canva</li><br>
 
 <li><strong>Produtividade</strong></li>
+<li>Atlassian</li>
+<li>Confluence</li>
+<li>Lucidchart</li>
+<li>RunRun</li>
 <li>Google Workspace</li>
 <li>Microsoft Office 365</li>
 <li>Google AppScripts</li>
@@ -49,19 +47,19 @@ Gosto de aprender coisas novas e de compartilhar com outros os meus conhecimento
 
 > <strong>Minhas Ferramentas Favoritas</strong>
   <li>Visual Studio</li>
-  <li>Visual Studio Code</li>
-  <li>Node.js</li>
-  <li>Git</li>
-  <li>GitHub</li>
-  <li>Figma</li>
-  <li>Microsof Edge</li>
-  <li>MySQL Workbench</li>
-  <li>Insomnia</li>
-  <li>Prisma</li>
-  <li>ElectronJS</li>
-  <li>Microsoft Report Builder</li>
-  <li>Microsoft Office 365</li>
-  <li>Google Workspace</li>
+	<li>Visual Studio Code</li>
+	<li>SQL Server Management Studio</li>
+	<li>Git</li>
+	<li>Github</li>
+	<li>MySQL Workbench</li>
+	<li>PgAdmin</li>
+	<li>Insomnia</li>
+	<li>Prisma</li>
+	<li>Electron</li>
+	<li>Microsoft Report Builder</li>
+	<li>Microsoft Office 365</li>
+	<li>Google Workspace</li>
+	<li>Google AppScripts</li>
 </p>
 
 ----
