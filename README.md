@@ -1,4 +1,4 @@
-<img src="https://github.com/PedroHugoHeinen/pedrohugoheinen/blob/55036a1ac97d4329ec454cf200fee0a41f0e798c/assets/images/HCommit%20-%20GitHub.png" min-width="256px" max-width="256px" width="256px" align="right" alt="HCommit" href="https://pedrohugoheinen.github.io/pedrohugoheinen/">
+<img src="https://github.com/PedroHugoHeinen/pedrohugoheinen/blob/55036a1ac97d4329ec454cf200fee0a41f0e798c/assets/images/HCommit%20-%20GitHub.png" min-width="60px" max-width="60px" width="60px" align="right" alt="HCommit" href="https://pedrohugoheinen.github.io/pedrohugoheinen/">
 
 ## **PEDRO HUGO HEINEN** <br>
 Sou desenvolvedor pleno especializado em C# e .NET com mais de 3 anos de experiência. Gosto muito de criar soluções eficientes e escaláveis e trabalho com foco em qualidade, usabilidade e inovação. Tenho um perfil bastante colaborativo, comunicativo e dedicado. Valoriso o aprendizado e o aperfeiçoamento de forma constante.<br><br>
