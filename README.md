@@ -1,13 +1,13 @@
 <img src="https://github.com/PedroHugoHeinen/pedrohugoheinen/blob/55036a1ac97d4329ec454cf200fee0a41f0e798c/assets/images/HCommit%20-%20GitHub.png" min-width="60px" max-width="60px" width="60px" align="right" alt="HCommit" href="https://pedrohugoheinen.github.io/pedrohugoheinen/">
 
 ## **PEDRO HUGO HEINEN** <br>
-Sou desenvolvedor pleno especializado em C# e .NET com mais de 3 anos de experiência. Gosto muito de criar soluções eficientes e escaláveis e trabalho com foco em qualidade, usabilidade e inovação. Tenho um perfil bastante colaborativo, comunicativo e dedicado. Valorizo o aprendizado e o aperfeiçoamento de forma constante.<br><br>
+Sou desenvolvedor especializado em <strong> .NET e C# </strong> com mais de 3 anos de experiência em criar soluções <br>
+eficientes, escaláveis e de alto impacto. Minha atuação combina <strong>qualidade, usabilidade e inovação </strong> <br>
+para entregar resultados que superam as expectativas. <br><br>
 
-> <strong>Frases que valorizo</strong><br>
-<li>Explique de forma simples, assim será fácil de ser compreendido.</li>
-<li>Pra tudo tem um tempo certo. A ansiedade precisa esperar.</li>
-<li>Aprender nunca é demais! Aproveita que não ocupa espaço.</li>
-<li>Para o honesto nunca falta credibilidade.</li>
+Com um <strong>perfil colaborativo e comunicativo, destaco-me pela capacidade de trabalhar em equipe e pela <br>
+dedicação em resolver desafios complexos.</strong> Sou apaixonado por aprendizado contínuo e busco sempre me <br>
+aperfeiçoar, explorando novas tecnologias e abordagens que agreguem valor aos projetos e ao time.
 <br><br><br>
 
 ----
