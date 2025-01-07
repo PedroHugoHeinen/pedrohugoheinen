@@ -12,7 +12,7 @@ Sou desenvolvedor pleno especializado em C# e .NET com mais de 3 anos de experi√
 
 ----
 
-<img src="https://github.com/PedroHugoHeinen/PedroHugoHeinen/blob/b95395d2ca31e55a872188992f4c74e185c658d8/Devs.jpg" min-width="256px" max-width="256px" width="256px" align="right" alt="Devs">
+<img src="https://github.com/PedroHugoHeinen/pedrohugoheinen/blob/main/assets/images/pic13.png" min-width="256px" max-width="256px" width="256px" align="right" alt="Devs">
 
 > <strong>HABILIDADES E ESPECIALIDADES</strong><br>
 <li><strong>.NET Core</strong></li>
@@ -43,8 +43,6 @@ Sou desenvolvedor pleno especializado em C# e .NET com mais de 3 anos de experi√
 </p>
 
 ----
-
-<img src="https://github.com/PedroHugoHeinen/PedroHugoHeinen/blob/537366063df641b68d82bd8bcfa701388210d151/DevTools.jpg" min-width="256px" max-width="256px" width="256px" align="right" alt="HCommit">
 
 > <strong>FERRAMENTAS FAVORITAS</strong>
 <li>Visual Studio</li>
