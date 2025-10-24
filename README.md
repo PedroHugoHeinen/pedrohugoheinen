@@ -12,8 +12,7 @@
       Confira abaixo um pouco da minha experiência e como posso te ajudar! 😎🤓😁
     </td>
     <td style="display: flex; flex-direction: column;">
-      <img src="/assets/images/pedro.jpg" width="200px" style="border-radius: 15%; margin-left: 20px;" />
-      <img src="/assets/images/heinen.png" width="50px" style="border-radius: 15%; margin-top: -40px" />
+      <img src="/assets/images/pedro.jpg" width="200px" />
     </td>
   </tr>
 </table>
